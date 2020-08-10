@@ -1,0 +1,26 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:text="play_audio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"          
+        android:id="@+id/play_audio" />
+    <Button
+        android:id="@+id/stop_audio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="stop_audio"
+        android:layout_below="@id/play_audio"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/stop_audio"
+        android:text="pause_audio"
+        android:id="@+id/pause_audio"
+    />
+</RelativeLayout>
