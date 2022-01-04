@@ -1551,24 +1551,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zeca_\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\TEMP\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zeca_\\Desktop\\XamarinProjects\\XamarinAudioSample\\XamarinAudioSample\\XamarinAudioSample.csproj",
+      "projectUniqueName": "C:\\Users\\TEMP\\Desktop\\XamarinProjects\\XamarinAudioSample\\XamarinAudioSample.csproj",
       "projectName": "XamarinAudioSample",
-      "projectPath": "C:\\Users\\zeca_\\Desktop\\XamarinProjects\\XamarinAudioSample\\XamarinAudioSample\\XamarinAudioSample.csproj",
-      "packagesPath": "C:\\Users\\zeca_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zeca_\\Desktop\\XamarinProjects\\XamarinAudioSample\\XamarinAudioSample\\obj\\",
+      "projectPath": "C:\\Users\\TEMP\\Desktop\\XamarinProjects\\XamarinAudioSample\\XamarinAudioSample.csproj",
+      "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TEMP\\Desktop\\XamarinProjects\\XamarinAudioSample\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\zeca_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
